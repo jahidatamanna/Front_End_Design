@@ -1,6 +1,6 @@
 # Some Front_End_Design Samples
 
-### A Flower Shop Design : https://website-sample-design.netlify.app/
+### A Flower Shop Design : https://a-flower-shop-website-design.netlify.app/
 ### Card Layout : https://card-layout-demo.netlify.app
 ### Calculator Layout : https://calculator-sample-design.netlify.app
 ### Brand ios LAyout  : https://brand-ios.netlify.app
