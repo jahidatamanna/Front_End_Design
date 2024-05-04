@@ -9,14 +9,14 @@
 ### Facebook Login Page Overview : https://facebook-login-page-demo-design.netlify.app/
 ### Random Page Design : https://random-page-design.netlify.app/
 ### Chat GPT3 Home Page : https://chat-gpt3-home-page.netlify.app/
-### InstaGram Post Layout : https://instagram-post-layout.netlify.app/
+### InstaGram Post Layout : https://instagram-post-demo-design.netlify.app/
 ### Keyboard Layout : https://keyboardlayout.netlify.app/
 ### Navbar Design Demo : https://navbar-design-demo.netlify.app/
 ### Websit sample design : https://website-sample-design.netlify.app/
 ### A-Payment-Card-Design-Sample :https://a-payment-card-design-sample.netlify.app/
 ### Product-card-design : https://a-card-design.netlify.app/
 ###  qr-code-card-design-sample : https://qr-code-card-design-sample.netlify.app/
-### WhatsApp Chat Layout : https://whatsapp-chat-layout.netlify.app/
+### WhatsApp Chat Layout : https://whatsapp-chat-demo-design.netlify.app/
 ### User Page Design : https://user-page-design.netlify.app/
 ### YouTube Front Demo : https://youtube-front-demo.netlify.app/
 
